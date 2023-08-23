@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=auto&text=White%20Butterfly&height=150&fontSize=60&desc=Hello!%20Oasis%20Hackathon!&descAlignY=75&descAlign=60)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=White%20Butterfly&fontAlign=50&fontAlignY=40&color=gradient)
 <p align='center'>수상한 그녀들 Github에 오신 여러분들을 환영합니다!</p>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
